@@ -11,7 +11,7 @@ I specialize in **full-stack development**, designing secure backend systems and
 
 👐 I’m looking for help with **system design, distributed systems, and scalable architecture**
 
-🌱 I’m currently learning **advanced React patterns, Micro Frontend/Backend architecture, and cloud deployment**
+🌱 I’m currently learning **advanced React patterns, Micro Frontend & micro services architecture, and cloud deployment**
 
 💬 Ask me about **React.js, Ruby on Rails, REST APIs, PostgreSQL, performance optimization, and scalable web architecture**
 
