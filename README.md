@@ -19,6 +19,16 @@ I specialize in **full-stack development**, designing secure backend systems and
 
 ---
 
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-chandra-joshi-b7483324b/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamaljoshi7465)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamaljoshi2206@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917465057557)
+[![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)](https://ryientsoftworkspace.slack.com/team/U04M42SLX6U)
+
+---
+
 # 💻 Tech Stack:
 
 ### 🚀 Programming Languages
