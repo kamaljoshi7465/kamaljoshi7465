@@ -250,7 +250,7 @@ I combine full-stack engineering fundamentals with AI-assisted development to im
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamaljoshi7465&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Kamal's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kamaljoshi7465&show_icons=true&theme=tokyonight&hide_border=true" alt="Kamal's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -258,7 +258,7 @@ I combine full-stack engineering fundamentals with AI-assisted development to im
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaljoshi7465&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kamaljoshi7465&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
@@ -293,5 +293,5 @@ Government Polytechnic Institute, Tanakpur — UBTER
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kamaljoshi7465&icon=0&color=6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kamaljoshi7465&style=for-the-badge&color=6C63FF" alt="Profile Views" />
 </p>
