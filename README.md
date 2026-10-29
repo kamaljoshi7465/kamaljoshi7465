@@ -1,20 +1,19 @@
 # 💫 About Me
 
-Hi 👋, I'm **Kamal Chandra Joshi**.
+Hi 👋, I'm **Kamal Chandra Joshi**
 
 ### Software Developer | AI-Native | Full Stack Developer
 
-🚀 Software Developer with **3.5+ years of experience** building and optimizing full-stack applications across healthcare, e-commerce, B2B, retail, and education domains.
+Software Developer with **3.5+ years of experience** building and optimizing full-stack applications across healthcare, e-commerce, B2B, retail, and education domains.
 
-- 🔭 Building scalable web applications with **React.js, TypeScript, Ruby on Rails, and Node.js**
-- 🧠 Exploring **AI-native engineering, LLM integrations, and prompt engineering**
+- 💻 Building scalable applications with React.js, TypeScript, Ruby on Rails, and Node.js
+- 🤖 Exploring AI-native engineering, LLM integrations, and AI-powered applications
 - ⚙️ Experienced in RESTful APIs, JWT authentication, RBAC, database optimization, and background jobs
 - 📈 Improved database query response time by approximately **35%** through indexing, query tuning, schema design, and eager loading
-- 🛍️ Experienced in Shopify theme customization, Liquid, Zoho Creator widgets, and CRM/Books API integrations
+- 🛍️ Experienced in Shopify theme development, Liquid, Zoho Creator widgets, and third-party API integrations
 - 🧪 Focused on clean code, SOLID principles, TDD/BDD, RSpec, and code quality
-- 🌱 Exploring scalable system design, microservices, cloud deployment, and AI-powered applications
+- 🌱 Learning advanced system design, scalable architecture, cloud technologies, and AI engineering
 - 🤝 Open to collaborating on SaaS products, full-stack applications, AI-powered tools, and open-source projects
-- 💬 Ask me about React.js, TypeScript, Ruby on Rails, Node.js, REST APIs, PostgreSQL, and performance optimization
 
 ---
 
@@ -30,7 +29,7 @@ Hi 👋, I'm **Kamal Chandra Joshi**.
 
 ---
 
-## 💻 Technical Skills
+## 💻 Tech Stack
 
 ### 🚀 Programming Languages
 
@@ -49,87 +48,124 @@ Hi 👋, I'm **Kamal Chandra Joshi**.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Concepts:** React Hooks, Context API, Functional Components, Responsive UI, Micro Frontend Architecture.
+**Skills:** React Hooks, Context API, functional components, reusable components, responsive UI, state management, frontend optimization, Micro Frontend architecture, HTML5, CSS3, and modern JavaScript.
 
 ### ⚙️ Backend Development & APIs
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-- RESTful API development and third-party API integrations
-- JWT authentication and authorization
-- Devise and Role-Based Access Control (RBAC)
-- MVC architecture and Microservices Architecture
-- WebSockets and asynchronous processing
-- Sidekiq background jobs
-- Backend scripting and data processing with Python
+**Skills:**
 
-### 🗄️ Databases & Data Management
+- Ruby on Rails, Node.js, Express.js, Java Spring Boot
+- RESTful API design, development, documentation, and integration
+- CRUD operations, MVC architecture, and object-oriented programming
+- JWT authentication, Devise, authorization, and RBAC
+- API validation, exception handling, and security fundamentals
+- WebSockets and real-time communication
+- Background jobs with Sidekiq
+- Microservices fundamentals and third-party integrations
+- Backend optimization and maintainable application architecture
+
+### 🗄️ Databases, Caching & Data Management
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-- Relational database design and management
-- SQL queries, indexing, and query optimization
-- Schema design and performance tuning
-- Eager loading and N+1 query optimization
-- Background job processing and caching
+**Skills:** SQL, relational database design, schema modeling, indexing, query optimization, eager loading, N+1 query prevention, transactions, database normalization, caching, and performance tuning.
 
-### 🤖 AI-Native Development & LLMs
+### 🤖 AI Tools, LLMs & AI-Native Development
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+#### AI Assistants & Platforms
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Amazon Q](https://img.shields.io/badge/Amazon_Q_Developer-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 
-- AI-assisted coding, debugging, refactoring, and documentation
-- LLM/API integrations and prompt engineering
-- GitHub Copilot, Cursor, Grok, Gemini, Amazon Q Developer, and Gemini Code Assist
-- AI-assisted implementation with developer review and test validation
-- OpenAI API integration
+#### AI Coding Assistants & Code Editors
+
+![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Amazon Q Developer](https://img.shields.io/badge/Amazon_Q_Developer-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Gemini Code Assist](https://img.shields.io/badge/Gemini_Code_Assist-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+#### IDEs & Development Environments
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
+
+**AI Engineering Skills:**
+
+- AI-assisted coding, debugging, refactoring, and code review
+- Prompt engineering and context engineering
+- Codebase analysis and multi-file code changes
+- LLM API integration and AI-powered feature development
+- AI-assisted test generation and documentation
+- Requirements analysis, technical research, and prototyping
+- AI-assisted workflow automation
+- Validation of AI-generated code through testing and code review
+- OpenAI API integration and LLM application fundamentals
 
 ### 🛍️ E-commerce & Business Integrations
 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Zoho](https://img.shields.io/badge/Zoho_Creator_%26_APIs-C8202B?style=for-the-badge&logo=zoho&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho-C8202B?style=for-the-badge&logo=zoho&logoColor=white)
+
+**Skills:**
 
 - Shopify Liquid and theme customization
 - Custom sections, responsive storefronts, and product collections
 - Shopify APIs and third-party integrations
-- Zoho Creator custom widgets
-- Zoho CRM and Zoho Books API integrations
-- Business workflow automation and field validation
+- Zoho Creator custom widgets and Deluge workflows
+- Zoho CRM and Zoho Books API integration
+- Business workflow automation and data validation
 
-### 🧪 Testing, Code Quality & Architecture
+### 🧪 Testing, Architecture & Code Quality
 
 ![RSpec](https://img.shields.io/badge/RSpec-BB0000?style=for-the-badge&logo=ruby&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 - Test-Driven Development (TDD) and Behavior-Driven Development (BDD)
-- Unit testing and API testing
-- RSpec and Postman
-- SOLID principles, MVC, and clean code
-- Debugging, refactoring, and performance optimization
-- Code quality analysis with SonarQube
+- Unit testing, integration testing, and API testing
+- RSpec, Postman, and automated testing workflows
+- SOLID principles, MVC, and modular architecture
+- Code reviews, static analysis, debugging, and refactoring
+- Performance profiling and bottleneck identification
+- Maintainability, readability, and code quality
 
 ### ☁️ DevOps, Cloud & Developer Tools
 
-![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_Basics-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Tools:** Git, GitHub, GitLab, Bitbucket, Postman, Grafana, Docker (Basic), AWS S3, CI/CD.
+**Tools & Platforms:** Git, GitHub, GitLab, Bitbucket, Postman, AWS S3, Grafana, Docker (basic), CI/CD, Linux, and deployment workflows.
 
-**Methodologies:** Agile, Scrum, SDLC, technical documentation, cross-functional collaboration, and team mentorship.
+**Engineering Practices:** Agile, Scrum, SDLC, technical documentation, code reviews, team mentorship, cross-functional collaboration, and process improvement.
+
+---
+
+## 🧠 AI-Native Engineering Workflow
+
+I combine full-stack engineering fundamentals with AI-assisted development to improve productivity without compromising code quality.
+
+1. **Understand:** Analyze requirements, existing codebases, architecture, and dependencies.
+2. **Plan:** Break features into manageable tasks and identify implementation risks.
+3. **Implement:** Use AI coding assistants for code generation, completion, and refactoring.
+4. **Validate:** Review generated code, run tests, debug failures, and verify edge cases.
+5. **Optimize:** Improve readability, maintainability, performance, and security.
+6. **Document:** Create and refine technical documentation, API references, and setup instructions.
 
 ---
 
@@ -166,7 +202,7 @@ Hi 👋, I'm **Kamal Chandra Joshi**.
 
 ### 🛍️ Rangrez — Shopify E-commerce Platform
 
-- Customized Shopify Liquid themes and responsive storefronts.
+- Customized Liquid themes and responsive storefronts.
 - Implemented product collections and client-specific features.
 - **Tech Stack:** Shopify, Liquid, HTML, CSS, JavaScript.
 
@@ -183,15 +219,15 @@ Hi 👋, I'm **Kamal Chandra Joshi**.
 
 ## 💼 Professional Experience
 
-**Software Developer** — Codearbro Solution (OPC) Pvt. Ltd.  
+### Software Developer — Codearbro Solution (OPC) Pvt. Ltd.
 *May 2026 – September 2026*
 
-- Developed responsive web applications using React.js, TypeScript, JavaScript, and MySQL.
+- Developed responsive applications using React.js, TypeScript, JavaScript, and MySQL.
 - Integrated REST APIs and optimized application performance.
 - Customized Shopify stores using Liquid, custom sections, and third-party integrations.
 - Built Zoho Creator widgets and integrated Zoho CRM/Books APIs for dynamic data retrieval and business workflow automation.
 
-**Full Stack Developer** — RyientSoft Technologies Pvt. Ltd.  
+### Full Stack Developer — RyientSoft Technologies Pvt. Ltd.
 *March 2023 – April 2026*
 
 - Developed 10+ full-stack applications across healthcare, retail, and education.
@@ -202,7 +238,7 @@ Hi 👋, I'm **Kamal Chandra Joshi**.
 - Applied TDD/BDD, RSpec, SonarQube, Git workflows, and CI/CD practices.
 - Developed backend features using Python and contributed to Java Spring Boot API development.
 
-**Trainee** — RyientSoft Technologies Pvt. Ltd.  
+### Trainee — RyientSoft Technologies Pvt. Ltd.
 *January 2023 – March 2023*
 
 - Contributed to React.js and Ruby on Rails development, including CRUD features and REST APIs.
@@ -215,6 +251,9 @@ Hi 👋, I'm **Kamal Chandra Joshi**.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamaljoshi7465&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Kamal's GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaljoshi7465&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
@@ -226,7 +265,8 @@ Hi 👋, I'm **Kamal Chandra Joshi**.
 
 ## 🎓 Education
 
-**Diploma in Computer Science & Engineering**  
+**Diploma in Computer Science & Engineering**
+
 Government Polytechnic Institute, Tanakpur — UBTER  
 2019–2022 | **8.0 CGPA / 73.54%**
 
